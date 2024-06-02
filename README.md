@@ -1,6 +1,6 @@
 # Hi, I'm Henfry De Los Santos 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/henfrydls?style=social) 
 
 ## About Me
 

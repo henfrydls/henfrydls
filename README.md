@@ -30,7 +30,7 @@ I am a passionate programmer and project management professional with a focus on
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=sql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
 </p>
 
 ### Other Tools & Technologies

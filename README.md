@@ -1,65 +1,44 @@
-# Hi, I'm Henfry De Los Santos 👋
+# Henfry De Los Santos
 
-![GitHub followers](https://img.shields.io/github/followers/henfrydls?style=social)
+Innovation and AI product leader who builds. I run the Innovation Office at Soventix Caribbean, a renewable energy company in Santo Domingo, where I take AI and automation from idea to production and, more importantly, to daily use. Outside work I build open-source tools, mostly local-first apps and MCP servers.
 
-## About Me
+## What I'm building
 
-Full-stack developer focused on building internal tools and automation platforms that solve real business problems. Currently working at the intersection of renewable energy and technology, where I design and develop digital solutions using Python/Django and AWS.
+| Project | What it is | Stack |
+|---|---|---|
+| [**actual-budget-mcp**](https://github.com/henfrydls/actual-budget-mcp) | MCP server for Actual Budget: query and manage personal finances from Claude. 1.5K+ monthly downloads on npm | TypeScript, MCP |
+| [**Skima**](https://github.com/henfrydls/Skima) | Open-source people development platform: skills matrix, development plans, gap analysis | React, Node.js, SQLite |
+| [**Daylo**](https://github.com/henfrydls/daylo) | Local-first activity tracker with a heatmap calendar, desktop and cross-platform | Tauri, React, TypeScript |
+| [**Portafolio-Manager**](https://github.com/henfrydls/Portafolio-Manager) | Django portfolio CMS with bilingual support | Python, Django |
+| [**PVsolar**](https://github.com/henfrydls/PVsolar) | GUI to distribute solar panels across inverter MPPT inputs | Python, Tkinter |
 
-I enjoy turning manual, time-consuming processes into streamlined applications—whether that's automating financial workflows, building calculation tools for engineering teams, or integrating AI into document processing.
+## How I work
 
-## What I Work On
+- **AI-native, every day.** Claude Code and Codex in delivery, agents connected to real systems, MCP to give models the right tools.
+- **Production over demos.** Confidence thresholds, defined points of human review, and evaluation loops against what the business actually approves.
+- **Adoption is the deliverable.** A tool nobody uses returns nothing, so I stay until it becomes how people work.
 
-- 🛠️ **Internal Platforms** - Building tools that teams actually use daily
-- ⚡ **Process Automation** - Replacing spreadsheets and manual work with code
-- 🤖 **AI Integration** - Implementing GPT Vision for document processing
-- ☁️ **Cloud Infrastructure** - Deploying and maintaining production applications on AWS
+## At work
 
-## Tech Stack
+**Soventix Caribbean** · Santo Domingo, Dominican Republic
 
-### Languages
+- Innovation and Digital Transformation Manager · Nov 2024 to present
+- Research, Development and Innovation Coordinator · Nov 2023 to Oct 2024
+- Engineering Coordinator · Oct 2022 to Oct 2023
+- Engineering Technician · Oct 2021 to Sep 2022
+
+16+ digital products delivered with 15 in production, roughly 2,500 hours of manual work automated per year, and document processing on a vision model at about 1,500 invoices a month.
+
+## Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tauri,nodejs,python,django,fastapi,aws,docker,postgres,sqlite" />
 </p>
-
-### Backend & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=django,aws,docker,postgresql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Also Working With
-- FastAPI, REST APIs
-- Pandas, NumPy for data analysis
-- Docker, CI/CD pipelines
-- PVsyst, AutoCAD (energy sector)
-
-## Current Focus
-
-- Building automation tools with Python/Django
-- Learning more about cloud architecture (AWS Certified Cloud Practitioner)
-- Exploring AI/ML applications for business workflows
-- Contributing to digital transformation in the energy sector
-
-## Professional Background
-
-**Manager, Innovation & Digital Transformation** @ Soventix Caribbean *(Dec 2024 - Present)*
-
-**R&D and Innovation Coordinator** @ Soventix Caribbean *(Nov 2023 - Nov 2024)*
-
-**Engineering Coordinator** @ Soventix Caribbean *(Feb 2023 - Oct 2023)*
 
 ## Languages
 
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (C2)
-- 🇮🇹 Italian (A2)
+Spanish (native) · English (C2) · Italian (A2)
 
-## Let's Connect
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/henfrydelossantos)
-- [henfry.delossantos@gmail.com](mailto:henfry.delossantos@gmail.com)
+[henfrydls.com](https://henfrydls.com) · [LinkedIn](https://www.linkedin.com/in/henfrydelossantos) · [henfry.delossantos@gmail.com](mailto:henfry.delossantos@gmail.com)
